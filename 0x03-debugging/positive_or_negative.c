@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include "main.h"
+/**
+ * positive_or_negative - display positive or negative or zero
+ * @param i is a parameter holding the value that is positive or negative
+ */
 
 void positive_or_negative(int i)
 {
