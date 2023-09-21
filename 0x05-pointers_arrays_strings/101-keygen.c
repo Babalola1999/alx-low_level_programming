@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include "main."
+#include "main.h"
 /**
  * main - program that generate random valid pwd
  *
